@@ -5,4 +5,4 @@ The repository conists of the following files pertaining to first assignment of 
 The pdf file contains the submissions of all the required HackerRank excercises solved by me.
 
 ## scripts.ipynb
-The .ipynb file contains the code for all the submitted HackerRank exercises written by me.
+The .ipynb file contain the codes for all the submitted HackerRank exercises written by me.
